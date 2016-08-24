@@ -6,7 +6,7 @@
   "scripts": {
     "test": "node index.js"
   },
-  "author": "txdsysy@gmail.com",
+  "author": "txdsysu@gmail.com",
   "license": "MIT",
   "dependencies": {
     "express": "^4.14.0",
