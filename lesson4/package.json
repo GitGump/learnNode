@@ -1,0 +1,14 @@
+{
+  "name": "lesson4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "txdsysu@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.0.1"
+  }
+}
